@@ -713,6 +713,10 @@ video {
   min-height: fit-content;
 }
 
+.min-h-screen {
+  min-height: 100vh;
+}
+
 .w-4\/5 {
   width: 80%;
 }
