@@ -38,5 +38,6 @@
   display: flex;
   justify-content: space-between;
   margin: 2rem;
-  max-width: 25rem;
+  width: 25rem;
+  max-width: 100%;
 }
