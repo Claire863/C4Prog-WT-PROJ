@@ -1,0 +1,42 @@
+.ellipse {
+  background-color: #9dbebb;
+  border-radius: 50%;
+  height: 2rem;
+  width: 2rem;
+}
+
+.cercle {
+  background-color: #9dbebb;
+  border-radius: 50%;
+  height: 3rem;
+  width: 3rem;
+}
+
+.rectangle-left {
+  background-color: #9dbebb;
+  border-radius: 10px;
+  line-height: 2rem;
+  height: 2rem;
+  width: 20rem;
+  text-align: center;
+  margin-right: 2rem;
+  font-weight: bold;
+}
+
+.rectangle-right {
+  background-color: #9dbebb;
+  border-radius: 10px;
+  line-height: 2rem;
+  height: 2rem;
+  width: 20rem;
+  text-align: center;
+  margin-left: 2rem;
+  font-weight: bold;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem;
+  max-width: 25rem;
+}
