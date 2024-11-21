@@ -8,8 +8,8 @@ This project is about designing and building a Portfolio site to display & showc
 | -------------- | ------------- | ------- |
 | black          | 0, 0, 0       | #000000 |
 | white          | 255, 255, 255 | #FFFFFF |
-| Charcoal       | 3, 25, 38     | #RRGGBB |
-| Teal           | 70, 129, 137  | #RRGGBB |
-| Cambridge Blue | 119, 172, 162 | #RRGGBB |
-| Ash Gray       | 157, 190, 187 | #RRGGBB |
-| Alice Blue     | 244, 251, 252 | #RRGGBB |
+| Charcoal       | 3, 25, 38     | #031926 |
+| Teal           | 70, 129, 137  | #468189 |
+| Cambridge Blue | 119, 172, 162 | #77aca2 |
+| Ash Gray       | 157, 190, 187 | #9dbebb |
+| Alice Blue     | 244, 251, 252 | #f4fbfc |
