@@ -47,3 +47,15 @@ img.img-about {
   width: 40%;
   margin: 10px;
 }
+
+img.img-mywork1 {
+  float: left;
+  width: 40%;
+  margin: 10px;
+}
+
+img.img-mywork2 {
+  float: right;
+  width: 40%;
+  margin: 10px;
+}
