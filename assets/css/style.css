@@ -41,3 +41,9 @@
   width: 25rem;
   max-width: 100%;
 }
+
+img.img-about {
+  float: right;
+  width: 40%;
+  margin: 10px;
+}
