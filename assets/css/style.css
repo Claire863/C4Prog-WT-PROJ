@@ -59,3 +59,9 @@ img.img-mywork2 {
   width: 40%;
   margin: 10px;
 }
+
+img.img-contact {
+  float: left;
+  width: 26px;
+  margin-right: 10px;
+}

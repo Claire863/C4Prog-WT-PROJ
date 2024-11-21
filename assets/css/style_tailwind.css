@@ -654,6 +654,10 @@ video {
   margin-left: 1.5rem;
 }
 
+.inline-block {
+  display: inline-block;
+}
+
 .flex {
   display: flex;
 }
@@ -800,6 +804,14 @@ video {
 
 .pl-6 {
   padding-left: 1.5rem;
+}
+
+.align-baseline {
+  vertical-align: baseline;
+}
+
+.align-middle {
+  vertical-align: middle;
 }
 
 .text-4xl {
